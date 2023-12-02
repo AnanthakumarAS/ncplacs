@@ -1,7 +1,7 @@
 from flask import Flask
 
 PORT = 8000
-MESSAGE = "Hello, world! \n This is NCPLACR04 applications(v-2.0.215.201a). \n"
+MESSAGE = "Hello, world! \n This is NCPLACR04 applicatis(v-2.0.215.201a). \n"
 
 app = Flask(__name__)
 
